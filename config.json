@@ -1,0 +1,33 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+    "dpi_scale": 1.3,
+    "ensure_newline_at_eof_on_save": true,
+    "file_exclude_patterns":
+    [
+        "*.pyc",
+        "*.pyo",
+        "*.swo",
+        "*.swp"
+    ],
+    "folder_exclude_patterns":
+    [
+        "__pycache__"
+    ],
+    "font_size": 10,
+    "ignored_packages":
+    [
+        "RestructuredText"
+    ],
+    "rulers":
+    [
+        79
+    ],
+    "show_line_endings": true,
+    "tab_size": 4,
+    "theme": "Soda Dark 3.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true,
+    "line_padding_top": 5,
+    "line_padding_bottom": 5
+}
